@@ -1,0 +1,1 @@
+I ran zero tests, shipped straight to production on a Friday at 4:59pm, and followed the deploy runbook to the letter — checkout is down, every order is failing, and the runbook still says ship it.
